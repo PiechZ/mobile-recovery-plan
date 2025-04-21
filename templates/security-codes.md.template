@@ -1,0 +1,36 @@
+# Security Codes and Authentication Backup
+
+This file contains sensitive information about your authentication methods and backup codes.
+DO NOT COMMIT THIS FILE TO GIT AFTER FILLING IT WITH YOUR ACTUAL DATA.
+
+## 2-Factor Authentication Applications
+
+### Google Authenticator
+- List of services using Google Authenticator:
+  - [Service Name 1]
+  - [Service Name 2]
+  - [Service Name 3]
+
+### Other Authentication Apps
+- [App Name] services:
+  - [Service Name]
+
+## Backup Codes
+
+### Google Account
+- Backup codes: [Your backup codes go here]
+- Recovery email: [Your recovery email]
+- Recovery phone: [Your recovery phone]
+
+### [Service Name]
+- Backup codes: [Your backup codes go here]
+- Recovery method: [Recovery details]
+
+## Alternative Authentication Methods
+
+### Account Recovery Contacts
+- [Service]: [Contact name/method]
+
+### Password Manager
+- [Password Manager Name] recovery key: [Key or instructions]
+- Emergency access: [Contact/Method]

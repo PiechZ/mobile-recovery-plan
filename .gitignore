@@ -1,0 +1,21 @@
+# Personal sensitive information
+personal-data/
+private/
+**/security-codes.md
+**/important-contacts-private.md
+**/authentication-backup-codes.md
+**/2fa-backup-codes.md
+**/authenticator-backup-codes.md
+
+# Templates with filled information
+**/templates/*.md
+!**/templates/*.template
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
