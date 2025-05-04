@@ -36,6 +36,9 @@ Detailed instructions for specific services and apps:
 - [Duo Mobile Recovery](guides/duo-mobile-recovery.md): Recovering Duo Mobile 2FA access
 - [ESET Authenticator Recovery](guides/eset-authenticator-recovery.md): Handling ESET 2FA recovery
 - [WatchGuard AuthPoint Recovery](guides/watchguard-authpoint-recovery.md): Recovering access to WatchGuard-protected resources
+- [Mobilní klíč eGovernmentu Recovery](guides/mobilni-klic-egovernmentu-recovery.md): Recovering access to the Czech eGovernment app
+- [MojeID Recovery](guides/mojeid-recovery.md): Recovering access to the MojeID service
+- [Google Wallet Recovery](guides/google-wallet-recovery.md): Recovering access to Google Wallet
 
 ### Templates
 Fill these with your personal information (stored in .gitignore):
