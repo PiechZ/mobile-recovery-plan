@@ -7,6 +7,7 @@ This guide provides steps to secure and recover your BitWarden password manager 
 1. **Access BitWarden from Another Device**
    - Use a trusted computer or secondary device to log into your BitWarden account at [vault.bitwarden.com](https://vault.bitwarden.com)
    - You'll need your master password to access your vault
+   - If 2FA is enabled, use your **printed backup codes** to complete the login process
 
 2. **Verify Your Account Security**
    - Check for any unauthorized access or login attempts in your account activity logs
@@ -19,7 +20,7 @@ This guide provides steps to secure and recover your BitWarden password manager 
 
 4. **Review Two-Factor Authentication**
    - If you used your lost device for 2FA with BitWarden:
-     - Use your backup recovery codes to access your account 
+     - Use your **printed backup recovery codes** to access your account
      - If using an authenticator app on the lost device, set up a new 2FA method immediately
 
 5. **Change Master Password**
@@ -33,10 +34,13 @@ This guide provides steps to secure and recover your BitWarden password manager 
    - Consider setting up emergency access for a trusted person (Premium feature)
    - This allows designated contacts to request access to your vault in emergencies
 
-2. **Recovery Codes**
-   - Ensure your BitWarden recovery codes are stored securely outside of your vault
-   - Store printed copies in a secure physical location
-   - Consider a secondary digital backup (not on your primary device)
+2. **Recovery Codes - CRITICAL**
+   - **Print physical copies** of your BitWarden recovery codes and store them in a secure location (e.g., home safe, safety deposit box)
+   - Keep these printed backup codes separate from your digital devices
+   - Consider multiple secure locations for critical backup codes
+   - Label them clearly but discreetly (avoid marking them as "BitWarden Master Password")
+   - Review and verify these printed codes periodically to ensure they remain legible and accessible
+   - For additional security, consider splitting the recovery information across multiple physical locations
 
 3. **Multiple Device Access**
    - Install BitWarden on multiple devices to ensure redundant access

@@ -29,72 +29,47 @@ DO NOT COMMIT THIS FILE TO GIT AFTER FILLING IT WITH YOUR ACTUAL DATA.
      ```
    - Alternative Recovery Method: [Details]
 
-## Microsoft Authenticator
+## Outlook (Microsoft Authenticator)
 
-### Backup Configuration
-- Microsoft Account Email: [Your Microsoft Account]
-- Cloud Backup Enabled: [Yes/No]
-- Last Verified Backup Date: [Date]
-
-### Accounts Without Cloud Backup
+### Accounts & Backup Codes
 1. **[Service Name]**
+   - Setup Date: [Date]
+   - Backup Codes:
+     ```
+     [Code 1]
+     [Code 2]
+     [Code 3]
+     ...
+     ```
+   - Recovery Email: [Email]
+   - Recovery Phone: [Phone]
+   - Additional Notes: [Notes]
+
+2. **[Service Name]**
+   - Setup Date: [Date]
    - Backup Codes:
      ```
      [Code 1]
      [Code 2]
      ...
      ```
-   - Recovery Instructions: [Specific steps]
+   - Alternative Recovery Method: [Details]
 
-## Duo Mobile
+## BitWarden
 
-### Duo Restore Configuration
-- Linked Account: [Google/Apple Account Email]
-- Backup Enabled Date: [Date]
-
-### Workplace Accounts
-1. **[Organization Name]**
-   - IT Support Contact: [Name/Email/Phone]
-   - Account ID or Username: [Your ID]
-   - Special Recovery Process: [Details]
-
-### Personal Accounts
-1. **[Service Name]**
+### Accounts & Backup Codes
+1. **BitWarden Vault**
+   - Setup Date: [Date]
    - Backup Codes:
      ```
      [Code 1]
      [Code 2]
+     [Code 3]
      ...
      ```
-   - Alternative Authentication Method: [Details]
-
-## ESET Authenticator
-
-### Secure Backup Configuration
-- ESET Account Email: [Your Email]
-- Backup Password Hint: [Hint Only, NOT the actual password]
-- Last Backup Date: [Date]
-
-### Manual Backup Codes
-1. **[Service Name]**
-   - Backup Codes:
-     ```
-     [Code 1]
-     [Code 2]
-     ...
-     ```
-   - Recovery Contact: [If applicable]
-
-## Hardware Security Keys (Optional Backup Method)
-
-### YubiKey/Other Hardware Key
-- Key Type: [Model]
-- Registered Services:
-  1. [Service Name]
-  2. [Service Name]
-  3. ...
-- Key Serial Number: [Serial Number]
-- Registration Date: [Date]
+   - Recovery Email: [Email]
+   - Recovery Phone: [Phone]
+   - Additional Notes: [Notes]
 
 ## Emergency Recovery Instructions
 
