@@ -31,3 +31,6 @@
 
 10. **Document Recovery Steps**:
     - Keep a record of the steps you took for future reference and to improve your recovery plan.
+
+11. **Linked Accounts**:
+    - Refer to the [Linked Accounts](linked-accounts.md) file for a list of accounts associated with your mobile device.

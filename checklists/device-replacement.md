@@ -11,6 +11,7 @@ When your mobile phone is lost or broken, replacing it is a crucial step. Follow
 ## 2. Report the Loss
 - Contact your mobile carrier to report the loss or theft.
 - If stolen, file a police report for documentation.
+- If stolen, log off the current sessions from old device, from all [Linked Accounts](linked-accounts.md)
 
 ## 3. Backup Data
 - If possible, back up any data from the lost or broken device.
